@@ -1,0 +1,28 @@
+{
+  "name": "hcloud-api",
+  "version": "1.0.0",
+  "description": "A NodeJS wrapper for the Hetzner Cloud API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raikasdev/hcloud-api.git"
+  },
+  "keywords": [
+    "hetzner",
+    "cloud",
+    "hetznercloud",
+    "hcloud"
+  ],
+  "author": "Roni Äikäs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raikasdev/hcloud-api/issues"
+  },
+  "homepage": "https://github.com/raikasdev/hcloud#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
